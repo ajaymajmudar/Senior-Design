@@ -1,0 +1,1 @@
+•	Capstone project with Piedmont Hospital to optimize the allocation of labor and instruments to prevent surgery delays through creation of a simulation model saving the hospital $4.5 million and increasing surgery fill rate by 10% ![image](https://user-images.githubusercontent.com/91752785/210615682-ea149912-719b-43c6-a9a7-98c74d17d95c.png)
