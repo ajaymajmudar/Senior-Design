@@ -7,4 +7,4 @@ We were able to successfully find the optimal level of trays and labor allocatio
 Please view the project final report and poster linked in the files above to gain a deeper understanding! 
 
 
-!["poster"](poster-image.jpeg)
+!["poster"](poster-image.jpg)
