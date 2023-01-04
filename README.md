@@ -5,3 +5,6 @@ Semester long capstone project with Piedmont Hospital in Atlanta to optimize the
 We were able to successfully find the optimal level of trays and labor allocation at various stations in order to maximize the hosptial fill rate for the neurosurgery service line and for various hosptial capacities due to COVID. We accomplihsed this via a simulation model built in Simio and performed the optimizations with OptQuest. 
 
 Please view the project final report and poster linked in the files above to gain a deeper understanding! 
+
+
+!["poster"](poster-image.jpeg)
